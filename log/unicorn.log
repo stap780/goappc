@@ -1,0 +1,377 @@
+I, [2019-04-13T18:00:48.368209 #2647]  INFO -- : reaped #<Process::Status: pid 2650 exit 0> worker=0
+I, [2019-04-13T18:00:48.368350 #2647]  INFO -- : reaped #<Process::Status: pid 2652 exit 0> worker=1
+I, [2019-04-13T18:00:48.368419 #2647]  INFO -- : master complete
+I, [2019-04-13T18:02:41.591032 #2851]  INFO -- : unlinking existing socket=/tmp/unicorn.goappc.sock
+I, [2019-04-13T18:02:41.591453 #2851]  INFO -- : listening on addr=/tmp/unicorn.goappc.sock fd=10
+I, [2019-04-13T18:02:41.591595 #2851]  INFO -- : worker=0 spawning...
+I, [2019-04-13T18:02:41.592218 #2851]  INFO -- : worker=1 spawning...
+I, [2019-04-13T18:02:41.594201 #2851]  INFO -- : master process ready
+I, [2019-04-13T18:02:41.598371 #2854]  INFO -- : worker=0 spawned pid=2854
+I, [2019-04-13T18:02:41.598614 #2854]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:02:41.606275 #2856]  INFO -- : worker=1 spawned pid=2856
+I, [2019-04-13T18:02:41.606530 #2856]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:02:47.734560 #2854]  INFO -- : worker=0 ready
+I, [2019-04-13T18:02:47.856477 #2856]  INFO -- : worker=1 ready
+I, [2019-04-13T18:06:29.093375 #2851]  INFO -- : reaped #<Process::Status: pid 2854 exit 0> worker=0
+I, [2019-04-13T18:06:29.093494 #2851]  INFO -- : reaped #<Process::Status: pid 2856 exit 0> worker=1
+I, [2019-04-13T18:06:29.093567 #2851]  INFO -- : master complete
+I, [2019-04-13T18:06:34.339743 #2973]  INFO -- : unlinking existing socket=/tmp/unicorn.goappc.sock
+I, [2019-04-13T18:06:34.340190 #2973]  INFO -- : listening on addr=/tmp/unicorn.goappc.sock fd=10
+I, [2019-04-13T18:06:34.340314 #2973]  INFO -- : worker=0 spawning...
+I, [2019-04-13T18:06:34.342875 #2973]  INFO -- : worker=1 spawning...
+I, [2019-04-13T18:06:34.344736 #2973]  INFO -- : master process ready
+I, [2019-04-13T18:06:34.350313 #2976]  INFO -- : worker=0 spawned pid=2976
+I, [2019-04-13T18:06:34.350532 #2976]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:06:34.357501 #2978]  INFO -- : worker=1 spawned pid=2978
+I, [2019-04-13T18:06:34.357806 #2978]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:06:40.225439 #2978]  INFO -- : worker=1 ready
+I, [2019-04-13T18:06:40.294880 #2976]  INFO -- : worker=0 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+I, [2019-04-13T18:08:18.366653 #2973]  INFO -- : reaped #<Process::Status: pid 2976 exit 0> worker=0
+I, [2019-04-13T18:08:18.366761 #2973]  INFO -- : reaped #<Process::Status: pid 2978 exit 0> worker=1
+I, [2019-04-13T18:08:18.366829 #2973]  INFO -- : master complete
+I, [2019-04-13T18:09:47.491628 #3125]  INFO -- : unlinking existing socket=/tmp/unicorn.goappc.sock
+I, [2019-04-13T18:09:47.491886 #3125]  INFO -- : listening on addr=/tmp/unicorn.goappc.sock fd=10
+I, [2019-04-13T18:09:47.492021 #3125]  INFO -- : worker=0 spawning...
+I, [2019-04-13T18:09:47.492588 #3125]  INFO -- : worker=1 spawning...
+I, [2019-04-13T18:09:47.494925 #3125]  INFO -- : master process ready
+I, [2019-04-13T18:09:47.502392 #3128]  INFO -- : worker=0 spawned pid=3128
+I, [2019-04-13T18:09:47.502643 #3128]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:09:47.507952 #3130]  INFO -- : worker=1 spawned pid=3130
+I, [2019-04-13T18:09:47.508186 #3130]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:09:53.098555 #3130]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+I, [2019-04-13T18:09:53.182448 #3128]  INFO -- : worker=0 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+I, [2019-04-13T18:12:16.540990 #3125]  INFO -- : reaped #<Process::Status: pid 3128 exit 0> worker=0
+I, [2019-04-13T18:12:16.541104 #3125]  INFO -- : reaped #<Process::Status: pid 3130 exit 0> worker=1
+I, [2019-04-13T18:12:16.541177 #3125]  INFO -- : master complete
+I, [2019-04-13T18:12:19.083744 #3252]  INFO -- : unlinking existing socket=/tmp/unicorn.goappc.sock
+I, [2019-04-13T18:12:19.084020 #3252]  INFO -- : listening on addr=/tmp/unicorn.goappc.sock fd=10
+I, [2019-04-13T18:12:19.084183 #3252]  INFO -- : worker=0 spawning...
+I, [2019-04-13T18:12:19.086173 #3252]  INFO -- : worker=1 spawning...
+I, [2019-04-13T18:12:19.088313 #3252]  INFO -- : master process ready
+I, [2019-04-13T18:12:19.094460 #3255]  INFO -- : worker=0 spawned pid=3255
+I, [2019-04-13T18:12:19.094719 #3255]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:12:19.101740 #3257]  INFO -- : worker=1 spawned pid=3257
+I, [2019-04-13T18:12:19.101991 #3257]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:12:24.978978 #3255]  INFO -- : worker=0 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+I, [2019-04-13T18:12:25.086553 #3257]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+I, [2019-04-13T18:12:34.823440 #3252]  INFO -- : reaped #<Process::Status: pid 3255 exit 0> worker=0
+I, [2019-04-13T18:12:34.823556 #3252]  INFO -- : reaped #<Process::Status: pid 3257 exit 0> worker=1
+I, [2019-04-13T18:12:34.823626 #3252]  INFO -- : master complete
+I, [2019-04-13T18:12:49.623568 #1243]  INFO -- : listening on addr=/tmp/unicorn.goappc.sock fd=10
+I, [2019-04-13T18:12:49.624155 #1243]  INFO -- : worker=0 spawning...
+I, [2019-04-13T18:12:49.624677 #1243]  INFO -- : worker=1 spawning...
+I, [2019-04-13T18:12:49.625828 #1243]  INFO -- : master process ready
+I, [2019-04-13T18:12:49.630452 #1246]  INFO -- : worker=0 spawned pid=1246
+I, [2019-04-13T18:12:49.630661 #1246]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:12:49.634288 #1248]  INFO -- : worker=1 spawned pid=1248
+I, [2019-04-13T18:12:49.634504 #1248]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:12:56.746417 #1248]  INFO -- : worker=1 ready
+I, [2019-04-13T18:12:56.817926 #1246]  INFO -- : worker=0 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+I, [2019-04-13T18:16:27.925075 #1243]  INFO -- : reaped #<Process::Status: pid 1246 exit 0> worker=0
+I, [2019-04-13T18:16:27.925257 #1243]  INFO -- : reaped #<Process::Status: pid 1248 exit 0> worker=1
+I, [2019-04-13T18:16:27.925327 #1243]  INFO -- : master complete
+I, [2019-04-13T18:18:20.071312 #1793]  INFO -- : unlinking existing socket=/tmp/unicorn.goappc.sock
+I, [2019-04-13T18:18:20.071590 #1793]  INFO -- : listening on addr=/tmp/unicorn.goappc.sock fd=10
+I, [2019-04-13T18:18:20.071720 #1793]  INFO -- : worker=0 spawning...
+I, [2019-04-13T18:18:20.073891 #1793]  INFO -- : worker=1 spawning...
+I, [2019-04-13T18:18:20.076441 #1793]  INFO -- : master process ready
+I, [2019-04-13T18:18:20.081980 #1796]  INFO -- : worker=0 spawned pid=1796
+I, [2019-04-13T18:18:20.082225 #1796]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:18:20.089953 #1798]  INFO -- : worker=1 spawned pid=1798
+I, [2019-04-13T18:18:20.090197 #1798]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:18:25.928970 #1798]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+I, [2019-04-13T18:18:26.035312 #1796]  INFO -- : worker=0 ready
+I, [2019-04-13T18:19:33.740626 #1793]  INFO -- : reaped #<Process::Status: pid 1796 exit 0> worker=0
+I, [2019-04-13T18:19:33.740731 #1793]  INFO -- : reaped #<Process::Status: pid 1798 exit 0> worker=1
+I, [2019-04-13T18:19:33.740808 #1793]  INFO -- : master complete
+I, [2019-04-13T18:20:00.666952 #1903]  INFO -- : unlinking existing socket=/tmp/unicorn.goappc.sock
+I, [2019-04-13T18:20:00.667359 #1903]  INFO -- : listening on addr=/tmp/unicorn.goappc.sock fd=10
+I, [2019-04-13T18:20:00.667517 #1903]  INFO -- : worker=0 spawning...
+I, [2019-04-13T18:20:00.668102 #1903]  INFO -- : worker=1 spawning...
+I, [2019-04-13T18:20:00.670118 #1903]  INFO -- : master process ready
+I, [2019-04-13T18:20:00.677515 #1906]  INFO -- : worker=0 spawned pid=1906
+I, [2019-04-13T18:20:00.677803 #1906]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:20:00.683541 #1908]  INFO -- : worker=1 spawned pid=1908
+I, [2019-04-13T18:20:00.683760 #1908]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:20:06.684731 #1908]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+I, [2019-04-13T18:20:06.783708 #1906]  INFO -- : worker=0 ready
+I, [2019-04-13T18:20:37.977465 #1903]  INFO -- : reaped #<Process::Status: pid 1906 exit 0> worker=0
+I, [2019-04-13T18:20:37.977569 #1903]  INFO -- : reaped #<Process::Status: pid 1908 exit 0> worker=1
+I, [2019-04-13T18:20:37.977637 #1903]  INFO -- : master complete
+I, [2019-04-13T18:20:52.680002 #1243]  INFO -- : listening on addr=/tmp/unicorn.goappc.sock fd=10
+I, [2019-04-13T18:20:52.680536 #1243]  INFO -- : worker=0 spawning...
+I, [2019-04-13T18:20:52.681089 #1243]  INFO -- : worker=1 spawning...
+I, [2019-04-13T18:20:52.683775 #1243]  INFO -- : master process ready
+I, [2019-04-13T18:20:52.689959 #1246]  INFO -- : worker=0 spawned pid=1246
+I, [2019-04-13T18:20:52.690206 #1246]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:20:52.692083 #1248]  INFO -- : worker=1 spawned pid=1248
+I, [2019-04-13T18:20:52.692330 #1248]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:20:59.566838 #1246]  INFO -- : worker=0 ready
+I, [2019-04-13T18:20:59.573168 #1248]  INFO -- : worker=1 ready
+I, [2019-04-13T18:24:16.296247 #1243]  INFO -- : reaped #<Process::Status: pid 1246 exit 0> worker=0
+I, [2019-04-13T18:24:16.296366 #1243]  INFO -- : reaped #<Process::Status: pid 1248 exit 0> worker=1
+I, [2019-04-13T18:24:16.296443 #1243]  INFO -- : master complete
+I, [2019-04-13T18:25:42.088064 #1689]  INFO -- : unlinking existing socket=/tmp/unicorn.goappc.sock
+I, [2019-04-13T18:25:42.088438 #1689]  INFO -- : listening on addr=/tmp/unicorn.goappc.sock fd=10
+I, [2019-04-13T18:25:42.088615 #1689]  INFO -- : worker=0 spawning...
+I, [2019-04-13T18:25:42.089426 #1689]  INFO -- : worker=1 spawning...
+I, [2019-04-13T18:25:42.091677 #1689]  INFO -- : master process ready
+I, [2019-04-13T18:25:42.098659 #1692]  INFO -- : worker=0 spawned pid=1692
+I, [2019-04-13T18:25:42.098924 #1692]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:25:42.104077 #1694]  INFO -- : worker=1 spawned pid=1694
+I, [2019-04-13T18:25:42.104396 #1694]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:25:48.201106 #1694]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+I, [2019-04-13T18:25:48.319604 #1692]  INFO -- : worker=0 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+I, [2019-04-13T18:31:12.702403 #1689]  INFO -- : reaped #<Process::Status: pid 1692 exit 0> worker=0
+I, [2019-04-13T18:31:12.702562 #1689]  INFO -- : reaped #<Process::Status: pid 1694 exit 0> worker=1
+I, [2019-04-13T18:31:12.702676 #1689]  INFO -- : master complete
+I, [2019-04-13T18:31:21.312337 #1908]  INFO -- : unlinking existing socket=/tmp/unicorn.goappc.sock
+I, [2019-04-13T18:31:21.312682 #1908]  INFO -- : listening on addr=/tmp/unicorn.goappc.sock fd=10
+I, [2019-04-13T18:31:21.312947 #1908]  INFO -- : worker=0 spawning...
+I, [2019-04-13T18:31:21.315515 #1908]  INFO -- : worker=1 spawning...
+I, [2019-04-13T18:31:21.317637 #1908]  INFO -- : master process ready
+I, [2019-04-13T18:31:21.322715 #1911]  INFO -- : worker=0 spawned pid=1911
+I, [2019-04-13T18:31:21.323019 #1911]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:31:21.330103 #1913]  INFO -- : worker=1 spawned pid=1913
+I, [2019-04-13T18:31:21.330355 #1913]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:31:27.350013 #1911]  INFO -- : worker=0 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+здесь newuser
+{"controller"=>"users", "action"=>"newuser"}
+I, [2019-04-13T18:31:27.442146 #1913]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+здесь newuser
+{"controller"=>"users", "action"=>"newuser"}
+{"email"=>"panaet80@gmail.com", "password"=>"071080", "password_confirmation"=>"071080", "role"=>"admin"}
+здесь user create
+I, [2019-04-13T18:34:11.723848 #1908]  INFO -- : reaped #<Process::Status: pid 1911 exit 0> worker=0
+I, [2019-04-13T18:34:11.723959 #1908]  INFO -- : reaped #<Process::Status: pid 1913 exit 0> worker=1
+I, [2019-04-13T18:34:11.724046 #1908]  INFO -- : master complete
+I, [2019-04-13T18:34:19.744019 #2042]  INFO -- : unlinking existing socket=/tmp/unicorn.goappc.sock
+I, [2019-04-13T18:34:19.744274 #2042]  INFO -- : listening on addr=/tmp/unicorn.goappc.sock fd=10
+I, [2019-04-13T18:34:19.744409 #2042]  INFO -- : worker=0 spawning...
+I, [2019-04-13T18:34:19.746407 #2042]  INFO -- : worker=1 spawning...
+I, [2019-04-13T18:34:19.748571 #2042]  INFO -- : master process ready
+I, [2019-04-13T18:34:19.754602 #2045]  INFO -- : worker=0 spawned pid=2045
+I, [2019-04-13T18:34:19.754845 #2045]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:34:19.762027 #2047]  INFO -- : worker=1 spawned pid=2047
+I, [2019-04-13T18:34:19.762326 #2047]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:34:25.697779 #2047]  INFO -- : worker=1 ready
+I, [2019-04-13T18:34:25.703367 #2045]  INFO -- : worker=0 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+здесь newuser
+{"controller"=>"users", "action"=>"newuser"}
+I, [2019-04-13T18:37:22.653073 #2042]  INFO -- : reaped #<Process::Status: pid 2045 exit 0> worker=0
+I, [2019-04-13T18:37:22.653183 #2042]  INFO -- : reaped #<Process::Status: pid 2047 exit 0> worker=1
+I, [2019-04-13T18:37:22.653248 #2042]  INFO -- : master complete
+I, [2019-04-13T18:37:30.788186 #2169]  INFO -- : unlinking existing socket=/tmp/unicorn.goappc.sock
+I, [2019-04-13T18:37:30.788582 #2169]  INFO -- : listening on addr=/tmp/unicorn.goappc.sock fd=10
+I, [2019-04-13T18:37:30.788786 #2169]  INFO -- : worker=0 spawning...
+I, [2019-04-13T18:37:30.790406 #2169]  INFO -- : worker=1 spawning...
+I, [2019-04-13T18:37:30.792372 #2169]  INFO -- : master process ready
+I, [2019-04-13T18:37:30.798679 #2172]  INFO -- : worker=0 spawned pid=2172
+I, [2019-04-13T18:37:30.798953 #2172]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:37:30.804288 #2174]  INFO -- : worker=1 spawned pid=2174
+I, [2019-04-13T18:37:30.804555 #2174]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:37:36.861528 #2174]  INFO -- : worker=1 ready
+I, [2019-04-13T18:37:36.862573 #2172]  INFO -- : worker=0 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+здесь newuser
+{"controller"=>"users", "action"=>"newuser"}
+I, [2019-04-13T18:51:03.500005 #2169]  INFO -- : reaped #<Process::Status: pid 2172 exit 0> worker=0
+I, [2019-04-13T18:51:03.500134 #2169]  INFO -- : reaped #<Process::Status: pid 2174 exit 0> worker=1
+I, [2019-04-13T18:51:03.500204 #2169]  INFO -- : master complete
+I, [2019-04-13T18:51:11.556266 #2413]  INFO -- : unlinking existing socket=/tmp/unicorn.goappc.sock
+I, [2019-04-13T18:51:11.556642 #2413]  INFO -- : listening on addr=/tmp/unicorn.goappc.sock fd=10
+I, [2019-04-13T18:51:11.556833 #2413]  INFO -- : worker=0 spawning...
+I, [2019-04-13T18:51:11.558552 #2413]  INFO -- : worker=1 spawning...
+I, [2019-04-13T18:51:11.561966 #2413]  INFO -- : master process ready
+I, [2019-04-13T18:51:11.566718 #2416]  INFO -- : worker=0 spawned pid=2416
+I, [2019-04-13T18:51:11.566998 #2416]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:51:11.576886 #2418]  INFO -- : worker=1 spawned pid=2418
+I, [2019-04-13T18:51:11.577241 #2418]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:51:17.486601 #2418]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+I, [2019-04-13T18:51:17.610667 #2416]  INFO -- : worker=0 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+I, [2019-04-13T18:55:40.336348 #2413]  INFO -- : reaped #<Process::Status: pid 2416 exit 0> worker=0
+I, [2019-04-13T18:55:40.336464 #2413]  INFO -- : reaped #<Process::Status: pid 2418 exit 0> worker=1
+I, [2019-04-13T18:55:40.336528 #2413]  INFO -- : master complete
+I, [2019-04-13T18:55:46.423763 #2559]  INFO -- : unlinking existing socket=/tmp/unicorn.goappc.sock
+I, [2019-04-13T18:55:46.424057 #2559]  INFO -- : listening on addr=/tmp/unicorn.goappc.sock fd=10
+I, [2019-04-13T18:55:46.424200 #2559]  INFO -- : worker=0 spawning...
+I, [2019-04-13T18:55:46.424713 #2559]  INFO -- : worker=1 spawning...
+I, [2019-04-13T18:55:46.426581 #2559]  INFO -- : master process ready
+I, [2019-04-13T18:55:46.430505 #2562]  INFO -- : worker=0 spawned pid=2562
+I, [2019-04-13T18:55:46.430742 #2562]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:55:46.438523 #2564]  INFO -- : worker=1 spawned pid=2564
+I, [2019-04-13T18:55:46.438795 #2564]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:55:52.237202 #2562]  INFO -- : worker=0 ready
+I, [2019-04-13T18:55:52.238254 #2564]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+I, [2019-04-13T18:58:51.221956 #2559]  INFO -- : reaped #<Process::Status: pid 2562 exit 0> worker=0
+I, [2019-04-13T18:58:51.222063 #2559]  INFO -- : reaped #<Process::Status: pid 2564 exit 0> worker=1
+I, [2019-04-13T18:58:51.222124 #2559]  INFO -- : master complete
+I, [2019-04-13T18:58:57.280078 #2704]  INFO -- : unlinking existing socket=/tmp/unicorn.goappc.sock
+I, [2019-04-13T18:58:57.280350 #2704]  INFO -- : listening on addr=/tmp/unicorn.goappc.sock fd=10
+I, [2019-04-13T18:58:57.280490 #2704]  INFO -- : worker=0 spawning...
+I, [2019-04-13T18:58:57.282519 #2704]  INFO -- : worker=1 spawning...
+I, [2019-04-13T18:58:57.284731 #2704]  INFO -- : master process ready
+I, [2019-04-13T18:58:57.290622 #2707]  INFO -- : worker=0 spawned pid=2707
+I, [2019-04-13T18:58:57.290892 #2707]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:58:57.296452 #2709]  INFO -- : worker=1 spawned pid=2709
+I, [2019-04-13T18:58:57.296686 #2709]  INFO -- : Refreshing Gem list
+I, [2019-04-13T18:59:03.366826 #2709]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+I, [2019-04-13T18:59:03.383594 #2707]  INFO -- : worker=0 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/deploy/.rvm/gems/ruby-2.4.4/gems/activesupport-4.2.8/lib/active_support/dependencies.rb:240:in `load_dependency'
+Invalid or incomplete POST params
+Invalid or incomplete POST params
+Invalid or incomplete POST params
+здесь newuser
+{"controller"=>"users", "action"=>"newuser"}
+{"email"=>"dmitriylimin@mail.ru", "password"=>"Zxcv1Asdf23", "password_confirmation"=>"Zxcv1Asdf23", "role"=>"admin"}
+здесь user create
+здесь newuser
+{"controller"=>"users", "action"=>"newuser"}
+{"email"=>"dmitriylimin@mail.ru", "password"=>"Zxcv1Asdf23", "password_confirmation"=>"Zxcv1Asdf23", "role"=>"admin"}
+здесь user render new
+здесь newuser
+{"controller"=>"users", "action"=>"newuser"}
+{"email"=>"panaet80@mail.ru", "password"=>"test", "password_confirmation"=>"test", "role"=>"admin"}
+здесь user create
